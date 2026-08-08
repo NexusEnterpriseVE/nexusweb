@@ -1,0 +1,10 @@
+{
+  "name":"Nexus Enterprise",
+  "short_name":"Nexus",
+  "description":"Software, desarrollo y soluciones digitales.",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#07152f",
+  "theme_color":"#07152f",
+  "icons":[{"src":"assets/brand/favicon.png","sizes":"128x128","type":"image/png"}]
+}
