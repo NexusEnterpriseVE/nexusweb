@@ -1,1 +1,0 @@
-El sitio es estático y no requiere framework. Navegación, animaciones, precios, descarga y cotización se configuran desde assets/js/config.js.
