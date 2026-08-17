@@ -1,0 +1,1 @@
+Actualmente la web usa enlaces MediaFire configurados en assets/js/config.js. Si luego quieres descarga directa, coloca aquí los archivos y cambia las URLs en config.js.

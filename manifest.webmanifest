@@ -1,0 +1,15 @@
+{
+  "name": "Nexus Enterprise",
+  "short_name": "Nexus",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#060914",
+  "theme_color": "#2f66ff",
+  "icons": [
+    {
+      "src": "assets/img/nexus-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
